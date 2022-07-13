@@ -1,0 +1,7 @@
+collections:
+  - name: community.docker
+
+roles:
+  - name: geerlingguy.docker
+
+# refering to https://docs.ansible.com/ansible/latest/galaxy/user_guide.html#install-multiple-collections-with-a-requirements-file
